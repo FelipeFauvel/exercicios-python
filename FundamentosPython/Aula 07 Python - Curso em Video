@@ -1,0 +1,53 @@
++ adição
+- subtração
+* multiplicação
+/ divisão
+** potência
+// divisão inteira
+% resto da divisão ou módulo.
+Porcentagem é utilizado para o módulo.
+
+Todos os operadores aritiméticos precisam de "operandos"
+
+Exemplo de operandos binários
+Ex:
+
+5+2 (adição)
+5-2 (subtração)
+5*2 (multiplicação)
+5/2 (divisão) pode dar float
+5**2 (potência)
+5//2 (divisão inteira) só da o resultado, antes de precisar de vírgula, ex: 5//2 é 2
+5%2 (resto da divisão) para divisão com resto, como exemplo acima: 5//2 é 2, resto da divisão é 1
+
+Ordem de precedência dos operadores.
+
+1 ()
+
+2 **
+
+3 *  /  //  %
+
+4 +  -
+
+
+
+calcular a raiz quadrada de um número, basta elevar ele por meio:
+
+81**(1/2)
+
+Raiz cúbica é o mesmo raciocínio, mas eleva-se a 1/3:
+
+127**(1/3)
+
+
+DESAFIO: Faça um programa que leia um número inteiro e mostre na tela o seu sucessor e seu antecessor
+Crie um algoritmo que leia um número e mostre o seu dobro, triplo e raiz
+Desenvolva um programa que leia as duas notas de um aluno, calcule e mostre a média
+Escreva um programa que leia um valor em metros e o exiba convertido em centímetros e milímetros
+Faça um programa que leia um número inteiro qualquer e mostre na tela sua tabuada
+Crie um programa que leia quanto dinheiro ela tem na carteira e mostre quantos dólares ela pode comprar
+considere 1.00 USD = 3,27
+Faça um programa que leia a largura e a altura de uma parede em metros, calcule a sua área e a quantidade necessária para pintá-lo, sabendo que a cada litro de tinta pinta uma área de 2m²
+Faça um algortimo que leia o preço de um produto e mpostre seu novo preço com 5% de desconto
+Faça um algrotimo que leia o salário de um funcionário e mostre seu novo salário com 15% de aumento.

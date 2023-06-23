@@ -1,0 +1,21 @@
+n1 = int(input ('4'))
+n2 = int(input ('4'))
+s = n1 + n2
+print ('n1 + n2', s)
+
+
+novo jeito de print:
+print (' A soma vale{}'.format (s))
+
+
+
+Tipos Primitivos: "int", "float", "bool" e "str".
+
+Inteiro: 7, -4, 0, 89128....
+
+float: 4.5, 0.76, -15.223 (números reais) - ponto flutuante - float. OBS: 7.0, 5.0, 8.0 são números flutuantes para
+efeito de python.
+
+bool: 'True' 'False'
+
+str: palavra, 'Olá', Obs: todas as palavras devem estar entre aspas, números em aspas são palavras. - '7.5'., str vazia: ''
